@@ -1,0 +1,19 @@
+{
+  "name": "masterclass-nodejs",
+  "version": "1.0.0",
+  "description": "master class de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaraz/masterclass-nodejs.git"
+  },
+  "author": "Galaraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galaraz/masterclass-nodejs/issues"
+  },
+  "homepage": "https://github.com/Galaraz/masterclass-nodejs#readme"
+}
